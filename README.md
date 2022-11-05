@@ -5,7 +5,7 @@
 
 ![blockchainConcept](/src/img/下载%20(6).png)
 
-##easyBlockChain用java实现了区块链最为基本的功能
+## easyBlockChain用java实现了区块链最为基本的功能
 
 
 
@@ -14,5 +14,5 @@
 
 ### 挖矿
 ![mining](src/img/WX20221105-204758@2x.png)
-###可自定义调整挖矿难度
+### 可自定义调整挖矿难度
 ![difficulty](src/img/WX20221105-204958@2x.png)
